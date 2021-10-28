@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Project>
+    <ProjectId>1</ProjectId>
+    <ProjectName>PPM</ProjectName>
+    <StartDate>2009-09-09T00:00:00</StartDate>
+    <EndDate>2008-08-08T00:00:00</EndDate>
+    <Budget>8000</Budget>
+    <EmpName>
+      <Employee>
+        <Id>1</Id>
+        <FirstName>dk</FirstName>
+        <LastName>po</LastName>
+        <EmployeeName>DK PO</EmployeeName>
+        <DOB>2009-09-09T00:00:00</DOB>
+        <Contact>7656</Contact>
+        <RoleName>DOCTOR</RoleName>
+      </Employee>
+    </EmpName>
+  </Project>
+</ArrayOfProject>

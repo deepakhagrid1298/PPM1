@@ -1,0 +1,16 @@
+C:\Users\hp\source\repos\PPM1\PPM.Domain\bin\Debug\netcoreapp3.1\PPM1.Domain.deps.json
+C:\Users\hp\source\repos\PPM1\PPM.Domain\bin\Debug\netcoreapp3.1\PPM1.Domain.runtimeconfig.json
+C:\Users\hp\source\repos\PPM1\PPM.Domain\bin\Debug\netcoreapp3.1\PPM1.Domain.runtimeconfig.dev.json
+C:\Users\hp\source\repos\PPM1\PPM.Domain\bin\Debug\netcoreapp3.1\PPM1.Domain.dll
+C:\Users\hp\source\repos\PPM1\PPM.Domain\bin\Debug\netcoreapp3.1\PPM1.Domain.pdb
+C:\Users\hp\source\repos\PPM1\PPM.Domain\bin\Debug\netcoreapp3.1\PPM1.Model.dll
+C:\Users\hp\source\repos\PPM1\PPM.Domain\bin\Debug\netcoreapp3.1\PPM1.Model.pdb
+C:\Users\hp\source\repos\PPM1\PPM.Domain\obj\Debug\netcoreapp3.1\PPM1.Domain.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\PPM1\PPM.Domain\obj\Debug\netcoreapp3.1\PPM1.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\PPM1\PPM.Domain\obj\Debug\netcoreapp3.1\PPM1.Domain.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\PPM1\PPM.Domain\obj\Debug\netcoreapp3.1\PPM1.Domain.AssemblyInfo.cs
+C:\Users\hp\source\repos\PPM1\PPM.Domain\obj\Debug\netcoreapp3.1\PPM1.Domain.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\PPM1\PPM.Domain\obj\Debug\netcoreapp3.1\PPM1.Domain.csproj.CopyComplete
+C:\Users\hp\source\repos\PPM1\PPM.Domain\obj\Debug\netcoreapp3.1\PPM1.Domain.dll
+C:\Users\hp\source\repos\PPM1\PPM.Domain\obj\Debug\netcoreapp3.1\PPM1.Domain.pdb
+C:\Users\hp\source\repos\PPM1\PPM.Domain\obj\Debug\netcoreapp3.1\PPM1.Domain.genruntimeconfig.cache

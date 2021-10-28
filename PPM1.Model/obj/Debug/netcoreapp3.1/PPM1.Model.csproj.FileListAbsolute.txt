@@ -1,0 +1,13 @@
+C:\Users\hp\source\repos\PPM1\PPM1.Model\bin\Debug\netcoreapp3.1\PPM1.Model.deps.json
+C:\Users\hp\source\repos\PPM1\PPM1.Model\bin\Debug\netcoreapp3.1\PPM1.Model.runtimeconfig.json
+C:\Users\hp\source\repos\PPM1\PPM1.Model\bin\Debug\netcoreapp3.1\PPM1.Model.runtimeconfig.dev.json
+C:\Users\hp\source\repos\PPM1\PPM1.Model\bin\Debug\netcoreapp3.1\PPM1.Model.dll
+C:\Users\hp\source\repos\PPM1\PPM1.Model\bin\Debug\netcoreapp3.1\PPM1.Model.pdb
+C:\Users\hp\source\repos\PPM1\PPM1.Model\obj\Debug\netcoreapp3.1\PPM1.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\PPM1\PPM1.Model\obj\Debug\netcoreapp3.1\PPM1.Model.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\PPM1\PPM1.Model\obj\Debug\netcoreapp3.1\PPM1.Model.AssemblyInfo.cs
+C:\Users\hp\source\repos\PPM1\PPM1.Model\obj\Debug\netcoreapp3.1\PPM1.Model.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\PPM1\PPM1.Model\obj\Debug\netcoreapp3.1\PPM1.Model.dll
+C:\Users\hp\source\repos\PPM1\PPM1.Model\obj\Debug\netcoreapp3.1\PPM1.Model.pdb
+C:\Users\hp\source\repos\PPM1\PPM1.Model\obj\Debug\netcoreapp3.1\PPM1.Model.genruntimeconfig.cache
+C:\Users\hp\source\repos\PPM1\PPM1.Model\obj\Debug\netcoreapp3.1\PPM1.Model.csproj.AssemblyReference.cache
